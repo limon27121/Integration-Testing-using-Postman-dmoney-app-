@@ -18,4 +18,4 @@
 https://documenter.getpostman.com/view/24742376/2sA3Qwb9Jj
 
 ## Output:
-![image](https://postimg.cc/Bth6Xpm9)
+https://postimg.cc/Bth6Xpm9
