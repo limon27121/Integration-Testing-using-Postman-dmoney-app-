@@ -13,9 +13,14 @@
 -   add the .env file (on request)
 -    ``` node report.js ``` or
 -    ``` npm test ```
+
+### Excel Reports
+
+- [Bug Report](https://docs.google.com/spreadsheets/d/1-6RnwBHAiXPWlK5Hnd-Sbbv6tCGJSQuS/edit?usp=drive_link&ouid=104070522484952617929&rtpof=true&sd=true)
+- [Dmoney Test Case collection](https://docs.google.com/spreadsheets/d/1bzxt4OF5msvI-iHyu-5aeaEfHfbqa30-/edit?usp=drive_link&ouid=104070522484952617929&rtpof=true&sd=true)
   
 ## Documentation
 https://documenter.getpostman.com/view/24742376/2sA3Qwb9Jj
 
-## Output:
-https://postimg.cc/Bth6Xpm9
+# Picture
+<img src="report picture.png" alt="Load Testing Screenshot" width="900">
